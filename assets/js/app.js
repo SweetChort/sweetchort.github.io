@@ -16,8 +16,8 @@ soundContainers.forEach(element => {
 
 var options = {
   strings: [
-    "Le panda ne vaut rien",
-    "Viendez sur ma chaine qu'elle est mieux",
+    "Pouet ! Ca marche pas !",
+    "Alèd !",
   ],
   typeSpeed: 50,
   backSpeed: 20,
