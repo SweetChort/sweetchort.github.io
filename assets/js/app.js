@@ -21,6 +21,7 @@ var options = {
   ],
   typeSpeed: 50,
   backSpeed: 20,
+  backDelay: 3000,
   shuffle: false,
   showCursor: false,
   loop: true,
