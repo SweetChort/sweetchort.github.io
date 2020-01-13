@@ -22,7 +22,9 @@ var options = {
   typeSpeed: 50,
   backSpeed: 20,
   shuffle: false,
-  showCursor: false
+  showCursor: false,
+  loop: true,
+  loopCount: Infinity
 };
 
 // random sentences
