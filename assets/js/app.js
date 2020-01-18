@@ -16,8 +16,10 @@ soundContainers.forEach(element => {
 
 var options = {
   strings: [
-    "Pouet ! Ca marche pas !",
-    "Alèd !",
+    "Waoh ! quand tu cliques, t'entends la pop !",
+    "Et en plus, t'as plus qu'à la coller dans le chat !",
+    "C'est complètement dingue !",
+    "On n'arrête pas le progrès !",
   ],
   typeSpeed: 50,
   backSpeed: 20,
